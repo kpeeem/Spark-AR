@@ -1,0 +1,496 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        0.3544999361038208,
+        0.26580697298049927,
+        2.2556953430175781
+      ],
+      "min": [
+        -0.40843665599822998,
+        -0.4296460747718811,
+        -2.1126697063446045
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 432,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        0.99117565155029297,
+        0.9915047287940979,
+        0.99958407878875732
+      ],
+      "min": [
+        -0.99117565155029297,
+        -0.99150478839874268,
+        -0.99958407878875732
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        0.99110615253448486,
+        0.99147325754165649,
+        0.025290593504905701,
+        1
+      ],
+      "min": [
+        -0.99124151468276978,
+        -0.99153095483779907,
+        -0.030531760305166245,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        0.99195468425750732,
+        0.95221859216690063
+      ],
+      "min": [
+        0.1000877246260643,
+        0.032877564430236816
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 96,
+      "max": [
+        35
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 864,
+      "componentType": 5126,
+      "count": 1583,
+      "max": [
+        10.257142066955566,
+        21.031082153320312,
+        13.692660331726074
+      ],
+      "min": [
+        -10.257142066955566,
+        -12.759927749633789,
+        -11.415271759033203
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 19860,
+      "componentType": 5126,
+      "count": 1583,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 576,
+      "componentType": 5126,
+      "count": 1583,
+      "max": [
+        0.99996161460876465,
+        0.9962044358253479,
+        0.99970155954360962,
+        1
+      ],
+      "min": [
+        -0.99999821186065674,
+        -0.96015655994415283,
+        -0.99924993515014648,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 288,
+      "componentType": 5126,
+      "count": 1583,
+      "max": [
+        0.99651223421096802,
+        0.99651223421096802
+      ],
+      "min": [
+        0.0034877939615398645,
+        0.044466257095336914
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 384,
+      "componentType": 5125,
+      "count": 8586,
+      "max": [
+        1582
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3DMaesen (https://sketchfab.com/bumstrum)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/e3d1e87a76d3464a822c400952e831e1",
+      "title": "african male head"
+    },
+    "generator": "Sketchfab-3.19.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 34728,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12952,
+      "byteOffset": 34728,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38856,
+      "byteOffset": 47680,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25904,
+      "byteOffset": 86536,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 112440,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/cigarette_diffuse.png"
+    },
+    {
+      "uri": "textures/face1_diffuse.png"
+    },
+    {
+      "uri": "textures/face1_normal.png"
+    },
+    {
+      "uri": "textures/face1_specularGlossiness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.40000000000000002,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "cigarette"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 1,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.5078125,
+          "specularFactor": [
+            1,
+            1,
+            1
+          ],
+          "specularGlossinessTexture": {
+            "index": 3,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "face1",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "cigarette_cigarette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "face_face1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "630b22aab5dc4902a02d83b51eb6479b.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2.3997633457183838,
+        -2.1255593299865723,
+        1
+      ],
+      "name": "1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.96337458789120212,
+        -0.031406868729845834,
+        0.26631374730201718,
+        0,
+        -0.054824101477512578,
+        0.94907318007994135,
+        0.31024895930547541,
+        0,
+        -0.26249518338940969,
+        -0.31348637522152917,
+        0.91259113037977024,
+        0,
+        -2.3827040195465088,
+        166.85087585449219,
+        17.854368209838867,
+        1
+      ],
+      "name": "cigarette"
+    },
+    {
+      "mesh": 0,
+      "name": "cigarette_cigarette_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        166.90876770019531,
+        5.3850340843200684,
+        1
+      ],
+      "name": "face"
+    },
+    {
+      "mesh": 1,
+      "name": "face_face1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
+
